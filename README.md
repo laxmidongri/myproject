@@ -1,4 +1,4 @@
 # myproject
-m first project using GitHub and AWS Ec2.
+myprojecct
 <br>
-devops
+my devops
